@@ -2,10 +2,10 @@ Hey, I'm Suhani Mishra 👋
 I'm a 19-year-old Tech Enthusiasts from India and I am passionate about bringing my ideas to real life.
 
 TECH STACKS I KNOW 🗯
-Frontend Development: HTML CSS Javascript Node.js
+Frontend Development: HTML, CSS, Javascript, Node.js
 Version Control: Git
 Backend Development: Django
-Programming languages: Python C++
+Programming languages: Python, C++
 Others: Jira
 
 Contact 📬
