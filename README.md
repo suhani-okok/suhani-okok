@@ -8,7 +8,7 @@ Frontend Development: HTML, CSS, Javascript.
 
 Version Control: Git.
 
-Backend Development: Django.
+Backend Development: Django. Node.js, Express.js
 
 Programming languages: Python, C++.
 
